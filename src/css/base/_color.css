@@ -1,0 +1,11 @@
+:root {
+  --color-text-primary: #24292f;
+  --color-background-primary: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text-primary: #C9D1D9;
+    --color-background-primary: #0D1117;
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bento",
+  "description": "A simple, elegant & opinionated startpage",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "web-dev-server --watch -r src/"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.22"
+  }
+}

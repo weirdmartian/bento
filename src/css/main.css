@@ -1,0 +1,8 @@
+/* IMPORT BASE STYLES */
+@import url("base/_reset.css");
+@import url("base/_color.css");
+@import url("base/_typography.css");
+
+/* IMPORT STYLES */
+@import url("body.css");
+@import url("widget.css");
